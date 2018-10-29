@@ -12,7 +12,7 @@
 
 
 
-![](D:\Code\GeGeWenkuDownload\zhifubao.jpg)
+![](zhifubao.jpg)
 
 最后如果觉得对您有帮助，欢迎**github Start** 加**Fork**。
 
