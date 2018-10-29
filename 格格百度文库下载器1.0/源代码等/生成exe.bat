@@ -1,1 +1,0 @@
-pyinstaller -F --icon=gege.ico baiduwenku_firefox.py  
