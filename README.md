@@ -12,7 +12,7 @@
 
 
 
-![](zhifubao.jpg)
+<img src="zhifubao.jpg" width=50% height=50%/>
 
 最后如果觉得对您有帮助，欢迎**github Start** 加**Fork**。
 
