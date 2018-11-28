@@ -1,0 +1,91 @@
+missing module named 'multiprocessing.forking' - imported by d:\program files\python\lib\site-packages\PyInstaller\loader\rthooks\pyi_rth_multiprocessing.py
+missing module named multiprocessing.get_context - imported by multiprocessing, multiprocessing.pool, multiprocessing.managers, multiprocessing.sharedctypes
+missing module named multiprocessing.TimeoutError - imported by multiprocessing, multiprocessing.pool
+missing module named multiprocessing.BufferTooShort - imported by multiprocessing, multiprocessing.connection
+missing module named multiprocessing.AuthenticationError - imported by multiprocessing, multiprocessing.connection
+missing module named multiprocessing.set_start_method - imported by multiprocessing, multiprocessing.spawn
+missing module named multiprocessing.get_start_method - imported by multiprocessing, multiprocessing.spawn
+missing module named resource - imported by posix, D:\Code\GeGeWenkuDownload\格格百度文库下载器2.0\源代码等\MainFunction.py
+missing module named posix - imported by os, D:\Code\GeGeWenkuDownload\格格百度文库下载器2.0\源代码等\MainFunction.py
+missing module named _posixsubprocess - imported by subprocess, multiprocessing.util, D:\Code\GeGeWenkuDownload\格格百度文库下载器2.0\源代码等\MainFunction.py
+missing module named 'org.python' - imported by pickle, xml.sax, D:\Code\GeGeWenkuDownload\格格百度文库下载器2.0\源代码等\MainFunction.py
+missing module named ce - imported by os, D:\Code\GeGeWenkuDownload\格格百度文库下载器2.0\源代码等\MainFunction.py
+missing module named readline - imported by cmd, code, pdb, D:\Code\GeGeWenkuDownload\格格百度文库下载器2.0\源代码等\MainFunction.py
+excluded module named _frozen_importlib - imported by importlib, importlib.abc, D:\Code\GeGeWenkuDownload\格格百度文库下载器2.0\源代码等\MainFunction.py
+missing module named _frozen_importlib_external - imported by importlib._bootstrap, importlib, importlib.abc, D:\Code\GeGeWenkuDownload\格格百度文库下载器2.0\源代码等\MainFunction.py
+missing module named _winreg - imported by platform, selenium.webdriver.firefox.firefox_binary, requests.utils, D:\Code\GeGeWenkuDownload\格格百度文库下载器2.0\源代码等\MainFunction.py
+missing module named _scproxy - imported by urllib.request
+missing module named java - imported by platform, D:\Code\GeGeWenkuDownload\格格百度文库下载器2.0\源代码等\MainFunction.py
+missing module named 'java.lang' - imported by platform, xml.sax._exceptions, D:\Code\GeGeWenkuDownload\格格百度文库下载器2.0\源代码等\MainFunction.py
+missing module named vms_lib - imported by platform, D:\Code\GeGeWenkuDownload\格格百度文库下载器2.0\源代码等\MainFunction.py
+missing module named termios - imported by tty, getpass, D:\Code\GeGeWenkuDownload\格格百度文库下载器2.0\源代码等\MainFunction.py
+missing module named urllib.getproxies_environment - imported by urllib, requests.compat
+missing module named urllib.proxy_bypass_environment - imported by urllib, requests.compat
+missing module named urllib.proxy_bypass - imported by urllib, requests.compat
+missing module named urllib.getproxies - imported by urllib, requests.compat
+missing module named urllib.urlencode - imported by urllib, requests.compat
+missing module named urllib.unquote_plus - imported by urllib, requests.compat
+missing module named urllib.quote_plus - imported by urllib, requests.compat
+missing module named urllib.unquote - imported by urllib, requests.compat
+missing module named urllib.quote - imported by urllib, requests.compat
+missing module named grp - imported by tarfile, shutil, pathlib, D:\Code\GeGeWenkuDownload\格格百度文库下载器2.0\源代码等\MainFunction.py
+missing module named _dummy_threading - imported by dummy_threading, D:\Code\GeGeWenkuDownload\格格百度文库下载器2.0\源代码等\MainFunction.py
+missing module named org - imported by copy, D:\Code\GeGeWenkuDownload\格格百度文库下载器2.0\源代码等\MainFunction.py
+missing module named pwd - imported by posixpath, tarfile, shutil, http.server, webbrowser, netrc, getpass, pathlib, D:\Code\GeGeWenkuDownload\格格百度文库下载器2.0\源代码等\MainFunction.py
+missing module named multiprocessing.Pool - imported by multiprocessing, BaiduwenkuFirefox, D:\Code\GeGeWenkuDownload\格格百度文库下载器2.0\源代码等\MainFunction.py
+missing module named rlextra - imported by reportlab.lib.pdfencrypt
+missing module named htmlentitydefs - imported by reportlab.platypus.paraparser
+missing module named HTMLParser - imported by reportlab.platypus.paraparser
+missing module named sets - imported by reportlab.platypus.doctemplate
+missing module named 'tests.test_platypus_tables' - imported by reportlab.platypus.tables
+missing module named jarray - imported by reportlab.lib.utils
+missing module named 'javax.imageio' - imported by reportlab.lib.utils
+missing module named rl_config - imported by reportlab.lib.utils
+missing module named urllib2 - imported by selenium.webdriver.common.utils, selenium.webdriver.remote.remote_connection, selenium.webdriver.common.service, requests.compat, reportlab.lib.utils
+missing module named 'reportlab.lib.pyHnj' - imported by reportlab.lib.utils
+missing module named Image - imported by reportlab.lib.utils
+missing module named 'java.awt' - imported by reportlab.lib.utils
+missing module named javax - imported by reportlab.lib.utils
+missing module named macostools - imported by reportlab.lib.utils
+missing module named macfs - imported by reportlab.lib.utils
+missing module named __builtin__ - imported by PIL.Image, reportlab, reportlab.lib.utils
+missing module named StringIO - imported by selenium.webdriver.remote.webelement, six, urllib3.packages.six, requests.compat, reportlab.lib.utils
+missing module named md5 - imported by reportlab.lib.utils
+missing module named cPickle - imported by reportlab.lib.utils
+missing module named cStringIO - imported by selenium.webdriver.firefox.firefox_profile, cPickle
+missing module named copy_reg - imported by cStringIO, cPickle
+missing module named reportlab_mods - imported by reportlab
+missing module named 'reportlab.local_rl_mods' - imported by reportlab
+missing module named future_builtins - imported by reportlab
+missing module named pyfribidi2 - imported by reportlab.pdfgen.textobject
+missing module named backports - imported by urllib3.packages.ssl_match_hostname
+missing module named _abcoll - imported by urllib3.packages.ordered_dict
+missing module named dummy_thread - imported by urllib3.packages.ordered_dict
+missing module named thread - imported by urllib3.packages.ordered_dict
+missing module named Cookie - imported by requests.compat
+missing module named cookielib - imported by requests.compat
+missing module named urlparse - imported by selenium.webdriver.remote.remote_connection, requests.compat
+missing module named simplejson - imported by requests.compat
+missing module named Queue - imported by urllib3.connectionpool
+missing module named "'urllib3.packages.six.moves.urllib'.parse" - imported by urllib3.request, urllib3.poolmanager
+runtime module named urllib3.packages.six.moves - imported by http.client, urllib3.connectionpool, urllib3.util.response, 'urllib3.packages.six.moves.urllib', urllib3.response
+missing module named socks - imported by urllib3.contrib.socks
+missing module named 'OpenSSL.crypto' - imported by urllib3.contrib.pyopenssl
+missing module named 'cryptography.x509' - imported by urllib3.contrib.pyopenssl
+missing module named 'cryptography.hazmat' - imported by urllib3.contrib.pyopenssl
+missing module named cryptography - imported by urllib3.contrib.pyopenssl
+missing module named OpenSSL - imported by urllib3.contrib.pyopenssl
+missing module named Tkinter - imported by PIL.ImageTk
+missing module named 'PySide.QtCore' - imported by PIL.ImageQt
+missing module named 'PyQt4.QtCore' - imported by PIL.ImageQt
+missing module named cffi - imported by PIL.Image, PIL.PyAccess, PIL.ImageTk
+missing module named iconv_codec - imported by bs4.dammit
+missing module named cchardet - imported by bs4.dammit
+missing module named html5lib.treebuilders.base - imported by html5lib.treebuilders, bs4.builder._html5lib
+missing module named ordereddict - imported by html5lib.treewalkers.etree, html5lib.filters.alphabeticalattributes
+runtime module named six.moves - imported by html5lib.inputstream, html5lib.sanitizer
+missing module named 'genshi.core' - imported by html5lib.treewalkers.genshistream
+missing module named genshi - imported by html5lib.treewalkers.genshistream
+missing module named datrie - imported by html5lib.trie.datrie
+missing module named charade - imported by html5lib.inputstream
+missing module named httplib - imported by selenium.webdriver.firefox.webdriver, selenium.webdriver.remote.remote_connection, selenium.webdriver.safari.webdriver, selenium.webdriver.blackberry.webdriver, selenium.webdriver.webkitgtk.webdriver

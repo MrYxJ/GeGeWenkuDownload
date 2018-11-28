@@ -1,0 +1,1 @@
+pyinstaller -F -w  --icon=gege.ico MainFunction.py  

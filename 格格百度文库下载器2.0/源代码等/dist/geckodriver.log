@@ -1,0 +1,108 @@
+1537361819169	geckodriver	INFO	geckodriver 0.19.1
+1537361819190	geckodriver	INFO	Listening on 127.0.0.1:64361
+1537361822035	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "-marionette" "--headless" "-profile" "C:\\Users\\叶小驹\\AppData\\Local\\Temp\\rust_mozprofile.RjMJMY1fbOUo"
+*** You are running in headless mode.
+1537361824724	Marionette	INFO	Listening on port 64370
+1537361825240	Marionette	WARN	TLS certificate errors will be ignored for this session
+1537361825287	Marionette	DEBUG	[6442450945] Frame script loaded
+1537361825290	Marionette	DEBUG	[6442450945] Frame script registered
+1537361825346	Marionette	DEBUG	[6442450945] Received DOM event beforeunload for about:blank
+1537361825755	Marionette	DEBUG	[6442450945] Received DOM event pagehide for about:blank
+1537361827237	Marionette	DEBUG	[6442450945] Received DOM event DOMContentLoaded for https://wenku.baidu.com/view/532c6bef01f69e31433294cf.html
+1537361829213	Marionette	DEBUG	[6442450945] Received observer notification outer-window-destroyed for 6442450961
+1537361832436	Marionette	DEBUG	[6442450945] Received DOM event pageshow for https://wenku.baidu.com/view/532c6bef01f69e31433294cf.html
+1537361858907	geckodriver	INFO	geckodriver 0.19.1
+1537361858923	geckodriver	INFO	Listening on 127.0.0.1:64492
+1537361861920	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "-marionette" "--headless" "-profile" "C:\\Users\\叶小驹\\AppData\\Local\\Temp\\rust_mozprofile.ch8KqYTc05OV"
+*** You are running in headless mode.
+1537361864109	Marionette	INFO	Listening on port 64501
+1537361865100	Marionette	WARN	TLS certificate errors will be ignored for this session
+1537361865138	Marionette	DEBUG	[6442450945] Frame script loaded
+1537361865140	Marionette	DEBUG	[6442450945] Frame script registered
+1537361865159	Marionette	DEBUG	[6442450945] Received DOM event beforeunload for about:blank
+1537361865519	Marionette	DEBUG	[6442450945] Received DOM event pagehide for about:blank
+1537361866884	Marionette	DEBUG	[6442450945] Received DOM event DOMContentLoaded for https://wenku.baidu.com/view/532c6bef01f69e31433294cf.html
+1537361868292	Marionette	DEBUG	[6442450945] Received observer notification outer-window-destroyed for 6442450961
+1537361870363	Marionette	DEBUG	[6442450945] Received DOM event pageshow for https://wenku.baidu.com/view/532c6bef01f69e31433294cf.html
+1537361870903	Marionette	DEBUG	[6442450945] Canceled page load listener because no navigation has been detected
+1537361885666	Marionette	INFO	Stopped listening on port 64501
+1543414022383	geckodriver	INFO	geckodriver 0.19.1
+1543414022399	geckodriver	INFO	Listening on 127.0.0.1:52799
+1543414025367	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "-marionette" "--headless" "-profile" "C:\\Users\\叶小驹\\AppData\\Local\\Temp\\rust_mozprofile.L03ALWdvq9kI"
+*** You are running in headless mode.
+1543414026135	Marionette	DEBUG	Received observer notification profile-after-change
+1543414026238	Marionette	DEBUG	Received observer notification toplevel-window-ready
+1543414026295	Marionette	DEBUG	Received observer notification command-line-startup
+1543414026295	Marionette	DEBUG	Received observer notification nsPref:changed
+1543414026296	Marionette	DEBUG	Init aborted (running=false, enabled=true, finalUIStartup=false)
+1543414026424	Marionette	DEBUG	Received observer notification toplevel-window-ready
+1543414028051	Marionette	DEBUG	Received observer notification sessionstore-windows-restored
+1543414028051	Marionette	DEBUG	Waiting for delayed startup...
+1543414028160	Marionette	DEBUG	Setting recommended pref app.update.disabledForTesting to true
+1543414028160	Marionette	DEBUG	Setting recommended pref security.turn_off_all_security_so_that_viruses_can_take_over_this_computer to true
+1543414028161	Marionette	DEBUG	Setting recommended pref toolkit.cosmeticAnimations.enabled to false
+1543414028162	Marionette	DEBUG	Setting recommended pref datareporting.policy.dataSubmissionPolicyAccepted to false
+1543414028162	Marionette	DEBUG	Setting recommended pref dom.disable_beforeunload to true
+1543414028247	Marionette	INFO	Listening on port 52807
+1543414028247	Marionette	DEBUG	Remote service is active
+1543414028573	Marionette	DEBUG	Accepted connection 0 from 127.0.0.1:52822
+1543414028574	Marionette	TRACE	0 -> [0,1,"newSession",{"acceptInsecureCerts":true,"browserName":"firefox","capabilities":{"desiredCapabilities":{"acceptInsecureCerts":true,"browserName":"firefox"}}}]
+1543414028575	Marionette	TRACE	0 <- [1,1,{"error":"unknown command","message":"newSession","stacktrace":"WebDriverError@chrome://marionette/content/error.js:178: ... et@chrome://marionette/content/server.js:245:8\n_onJSONObjectReady/<@chrome://marionette/content/transport.js:490:9\n"},null]
+1543414029291	geckodriver	INFO	geckodriver 0.19.1
+1543414029328	geckodriver	INFO	Listening on 127.0.0.1:52823
+1543414105781	geckodriver	INFO	geckodriver 0.19.1
+1543414105797	geckodriver	INFO	Listening on 127.0.0.1:52835
+1543414108749	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "-marionette" "--headless" "-profile" "C:\\Users\\叶小驹\\AppData\\Local\\Temp\\rust_mozprofile.kB1s8h5oTPOJ"
+*** You are running in headless mode.
+1543414109413	Marionette	DEBUG	Received observer notification profile-after-change
+1543414109500	Marionette	DEBUG	Received observer notification toplevel-window-ready
+1543414109534	Marionette	DEBUG	Received observer notification command-line-startup
+1543414109534	Marionette	DEBUG	Received observer notification nsPref:changed
+1543414109534	Marionette	DEBUG	Init aborted (running=false, enabled=true, finalUIStartup=false)
+1543414109612	Marionette	DEBUG	Received observer notification toplevel-window-ready
+1543414111068	Marionette	DEBUG	Received observer notification sessionstore-windows-restored
+1543414111068	Marionette	DEBUG	Waiting for delayed startup...
+1543414111312	Marionette	DEBUG	Setting recommended pref app.update.disabledForTesting to true
+1543414111312	Marionette	DEBUG	Setting recommended pref security.turn_off_all_security_so_that_viruses_can_take_over_this_computer to true
+1543414111314	Marionette	DEBUG	Setting recommended pref toolkit.cosmeticAnimations.enabled to false
+1543414111314	Marionette	DEBUG	Setting recommended pref datareporting.policy.dataSubmissionPolicyAccepted to false
+1543414111314	Marionette	DEBUG	Setting recommended pref dom.disable_beforeunload to true
+1543414111380	Marionette	INFO	Listening on port 52843
+1543414111380	Marionette	DEBUG	Remote service is active
+1543414111999	Marionette	DEBUG	Accepted connection 0 from 127.0.0.1:52858
+1543414112002	Marionette	TRACE	0 -> [0,1,"newSession",{"acceptInsecureCerts":true,"browserName":"firefox","capabilities":{"desiredCapabilities":{"acceptInsecureCerts":true,"browserName":"firefox"}}}]
+1543414112002	Marionette	TRACE	0 <- [1,1,{"error":"unknown command","message":"newSession","stacktrace":"WebDriverError@chrome://marionette/content/error.js:178: ... et@chrome://marionette/content/server.js:245:8\n_onJSONObjectReady/<@chrome://marionette/content/transport.js:490:9\n"},null]
+1543414112760	geckodriver	INFO	geckodriver 0.19.1
+1543414112775	geckodriver	INFO	Listening on 127.0.0.1:52859
+1543414122205	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "-marionette" "--headless" "-foreground" "-no-remote" "-profile" "C:\\Users\\叶小驹\\AppData\\Local\\Temp\\rust_mozprofile.ihqcJnsrI9kf"
+*** You are running in headless mode.
+1543414125284	Marionette	INFO	Listening on port 52876
+1543414125557	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://wkstatic.bdimg.com/static/wkcommon/pkg/pkg_wkcommon_lib_67a6f6e.js, line 10: TypeError: e is undefined
+console.error: BroadcastService: 
+  receivedBroadcastMessage: handler for
+  remote-settings/monitor_changes
+  threw error:
+  Message: Error: Polling for changes failed: NetworkError when attempting to fetch resource..
+  Stack:
+    remoteSettingsFunction/remoteSettings.pollChanges@resource://services-settings/remote-settings.js:721:13
+
+543414176193	Marionette	WARN	TLS certificate errors will be ignored for this session
+1543414183914	Marionette	INFO	Stopped listening on port 52968
+[Child 18036, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 18036, Chrome_ChildThread] WARNING: pipe error: 109: file z:/buil[Parent 20192, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 19172, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 19172, Chro[Parent 20192, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 24012, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 24012, Chrome_ChildThread] WARNING: p1543414190017	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "-marionette" "--headless" "-foreground" "-no-remote" "-profile" "C:\\Users\\叶小驹\\AppData\\Local\\Temp\\rust_mozprofile.lzouuxT5zMHD"
+*** You are running in headless mode.
+1543414192826	Marionette	INFO	Listening on port 53051
+1543414193332	Marionette	WARN	TLS certificate errors will be ignored for this session
+console.error: BroadcastService: 
+  receivedBroadcastMessage: handler for
+  remote-settings/monitor_changes
+  threw error:
+  Message: Error: Polling for changes failed: NetworkError when attempting to fetch resource..
+  Stack:
+    remoteSettingsFunction/remoteSettings.pollChanges@resource://services-settings/remote-settings.js:721:13
+

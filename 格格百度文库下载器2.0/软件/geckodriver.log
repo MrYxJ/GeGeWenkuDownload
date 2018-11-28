@@ -1,0 +1,55 @@
+1543403577302	geckodriver	INFO	geckodriver 0.19.1
+1543403577315	geckodriver	INFO	Listening on 127.0.0.1:64002
+1543403580334	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "-marionette" "--headless" "-profile" "C:\\Users\\叶小驹\\AppData\\Local\\Temp\\rust_mozprofile.ebo7lELuqxxA"
+*** You are running in headless mode.
+1543403581425	Marionette	DEBUG	Received observer notification profile-after-change
+1543403581542	Marionette	DEBUG	Received observer notification toplevel-window-ready
+1543403581599	Marionette	DEBUG	Received observer notification command-line-startup
+1543403581600	Marionette	DEBUG	Received observer notification nsPref:changed
+1543403581600	Marionette	DEBUG	Init aborted (running=false, enabled=true, finalUIStartup=false)
+1543403581700	Marionette	DEBUG	Received observer notification toplevel-window-ready
+1543403583136	Marionette	DEBUG	Received observer notification sessionstore-windows-restored
+1543403583136	Marionette	DEBUG	Waiting for delayed startup...
+1543403583220	Marionette	DEBUG	Setting recommended pref app.update.disabledForTesting to true
+1543403583221	Marionette	DEBUG	Setting recommended pref security.turn_off_all_security_so_that_viruses_can_take_over_this_computer to true
+1543403583221	Marionette	DEBUG	Setting recommended pref toolkit.cosmeticAnimations.enabled to false
+1543403583222	Marionette	DEBUG	Setting recommended pref datareporting.policy.dataSubmissionPolicyAccepted to false
+1543403583222	Marionette	DEBUG	Setting recommended pref dom.disable_beforeunload to true
+1543403583269	Marionette	INFO	Listening on port 64010
+1543403583269	Marionette	DEBUG	Remote service is active
+1543403583530	Marionette	DEBUG	Accepted connection 0 from 127.0.0.1:64026
+1543403583533	Marionette	TRACE	0 -> [0,1,"newSession",{"acceptInsecureCerts":true,"browserName":"firefox","capabilities":{"desiredCapabilities":{"acceptInsecureCerts":true,"browserName":"firefox"}}}]
+1543403583533	Marionette	TRACE	0 <- [1,1,{"error":"unknown command","message":"newSession","stacktrace":"WebDriverError@chrome://marionette/content/error.js:178: ... et@chrome://marionette/content/server.js:245:8\n_onJSONObjectReady/<@chrome://marionette/content/transport.js:490:9\n"},null]
+1543403645972	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "-marionette" "--headless" "-foreground" "-no-remote" "-profile" "C:\\Users\\叶小驹\\AppData\\Local\\Temp\\rust_mozprofile.NqdxglNGGDUZ"
+*** You are running in headless mode.
+1543403648441	Marionette	INFO	Listening on port 64038
+1543403648827	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://wkretype.bdimg.com/retype/font?font=ipad&callback=wenku_reader_fontCallBack, line 1: ReferenceError: wenku_reader_fontCallBack is not defined
+JavaScript error: https://wkretype.bdimg.com/retype/font?font=ipad&callback=wenku_reader_fontCallBack, line 1: ReferenceError: wenku_reader_fontCallBack is not defined
+1543403662659	Marionette	INFO	Stopped listening on port 64038
+[Parent 13064, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 24236, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 24236, Chrome_ChildTJavaScript error: resource://gre/modules/WebProgressChild.jsm, line 58: TypeError: this.mm.content is null
+[Child 18660, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 18660, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Parent 13064, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+1543403933352	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "-marionette" "--headless" "-foreground" "-no-remote" "-profile" "C:\\Users\\叶小驹\\AppData\\Local\\Temp\\rust_mozprofile.QE7XF67yinLI"
+*** You are running in headless mode.
+1543403936020	Marionette	INFO	Listening on port 64196
+1543403936181	Marionette	WARN	TLS certificate errors will be ignored for this session
+1543403948593	Marionette	INFO	Stopped listening on port 64196
+[Parent 25008, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Parent 25008, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 18172, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 18172, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/i1543403955463	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "-marionette" "--headless" "-foreground" "-no-remote" "-profile" "C:\\Users\\叶小驹\\AppData\\Local\\Temp\\rust_mozprofile.YQRcF1DmfhVx"
+*** You are running in headless mode.
+1543403958047	Marionette	INFO	Listening on port 64310
+1543403958256	Marionette	WARN	TLS certificate errors will be ignored for this session
+console.error: BroadcastService: 
+  receivedBroadcastMessage: handler for
+  remote-settings/monitor_changes
+  threw error:
+  Message: Error: Polling for changes failed: NetworkError when attempting to fetch resource..
+  Stack:
+    remoteSettingsFunction/remoteSettings.pollChanges@resource://services-settings/remote-settings.js:721:13
+

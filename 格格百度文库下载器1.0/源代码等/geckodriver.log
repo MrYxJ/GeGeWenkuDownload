@@ -1,0 +1,62 @@
+1543389206317	geckodriver	INFO	geckodriver 0.19.1
+1543389206317	geckodriver	INFO	Listening on 127.0.0.1:60362
+1543389209451	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "-marionette" "--headless" "-profile" "C:\\Users\\叶小驹\\AppData\\Local\\Temp\\rust_mozprofile.grauJGjLFNs0"
+*** You are running in headless mode.
+1543389210742	Marionette	DEBUG	Received observer notification profile-after-change
+1543389210866	Marionette	DEBUG	Received observer notification toplevel-window-ready
+1543389210949	Marionette	DEBUG	Received observer notification command-line-startup
+1543389210950	Marionette	DEBUG	Received observer notification nsPref:changed
+1543389210950	Marionette	DEBUG	Init aborted (running=false, enabled=true, finalUIStartup=false)
+1543389211122	Marionette	DEBUG	Received observer notification toplevel-window-ready
+1543389212931	Marionette	DEBUG	Received observer notification sessionstore-windows-restored
+1543389212932	Marionette	DEBUG	Waiting for delayed startup...
+1543389213107	Marionette	DEBUG	Setting recommended pref app.update.disabledForTesting to true
+1543389213109	Marionette	DEBUG	Setting recommended pref security.turn_off_all_security_so_that_viruses_can_take_over_this_computer to true
+1543389213111	Marionette	DEBUG	Setting recommended pref toolkit.cosmeticAnimations.enabled to false
+1543389213113	Marionette	DEBUG	Setting recommended pref datareporting.policy.dataSubmissionPolicyAccepted to false
+1543389213113	Marionette	DEBUG	Setting recommended pref dom.disable_beforeunload to true
+1543389213179	Marionette	INFO	Listening on port 60379
+1543389213180	Marionette	DEBUG	Remote service is active
+1543389213682	Marionette	DEBUG	Accepted connection 0 from 127.0.0.1:60399
+1543389213685	Marionette	TRACE	0 -> [0,1,"newSession",{"acceptInsecureCerts":true,"browserName":"firefox","capabilities":{"desiredCapabilities":{"acceptInsecureCerts":true,"browserName":"firefox"}}}]
+1543389213686	Marionette	TRACE	0 <- [1,1,{"error":"unknown command","message":"newSession","stacktrace":"WebDriverError@chrome://marionette/content/error.js:178: ... et@chrome://marionette/content/server.js:245:8\n_onJSONObjectReady/<@chrome://marionette/content/transport.js:490:9\n"},null]
+1543389485121	geckodriver	INFO	geckodriver 0.19.1
+1543389485137	geckodriver	INFO	Listening on 127.0.0.1:60800
+1543389488261	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "-marionette" "--headless" "-profile" "C:\\Users\\叶小驹\\AppData\\Local\\Temp\\rust_mozprofile.hb7pkUAQG1zI"
+*** You are running in headless mode.
+1543389490041	Marionette	DEBUG	Received observer notification profile-after-change
+1543389490247	Marionette	DEBUG	Received observer notification toplevel-window-ready
+1543389490401	Marionette	DEBUG	Received observer notification command-line-startup
+1543389490402	Marionette	DEBUG	Received observer notification nsPref:changed
+1543389490402	Marionette	DEBUG	Init aborted (running=false, enabled=true, finalUIStartup=false)
+1543389491040	Marionette	DEBUG	Received observer notification toplevel-window-ready
+1543389495741	Marionette	DEBUG	Received observer notification sessionstore-windows-restored
+1543389495741	Marionette	DEBUG	Waiting for delayed startup...
+1543389496074	Marionette	DEBUG	Setting recommended pref app.update.disabledForTesting to true
+1543389496075	Marionette	DEBUG	Setting recommended pref security.turn_off_all_security_so_that_viruses_can_take_over_this_computer to true
+1543389496077	Marionette	DEBUG	Setting recommended pref toolkit.cosmeticAnimations.enabled to false
+1543389496079	Marionette	DEBUG	Setting recommended pref datareporting.policy.dataSubmissionPolicyAccepted to false
+1543389496079	Marionette	DEBUG	Setting recommended pref dom.disable_beforeunload to true
+1543389496199	Marionette	INFO	Listening on port 60808
+1543389496199	Marionette	DEBUG	Remote service is active
+1543389496282	Marionette	DEBUG	Accepted connection 0 from 127.0.0.1:60829
+1543389496286	Marionette	TRACE	0 -> [0,1,"newSession",{"acceptInsecureCerts":true,"browserName":"firefox","capabilities":{"desiredCapabilities":{"acceptInsecureCerts":true,"browserName":"firefox"}}}]
+1543389496288	Marionette	TRACE	0 <- [1,1,{"error":"unknown command","message":"newSession","stacktrace":"WebDriverError@chrome://marionette/content/error.js:178: ... et@chrome://marionette/content/server.js:245:8\n_onJSONObjectReady/<@chrome://marionette/content/transport.js:490:9\n"},null]
+1543400894921	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "-marionette" "--headless" "-foreground" "-no-remote" "-profile" "C:\\Users\\叶小驹\\AppData\\Local\\Temp\\rust_mozprofile.q03UzIeqo3iw"
+*** You are running in headless mode.
+1543400898039	Marionette	INFO	Listening on port 63367
+1543400898224	Marionette	WARN	TLS certificate errors will be ignored for this session
+1543400924108	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\叶小驹\\AppData\\Local\\Temp\\rust_mozprofile.LgYCpLC91BNw"
+1543400927508	Marionette	INFO	Listening on port 63398
+1543400927532	Marionette	WARN	TLS certificate errors will be ignored for this session
+[Parent 23060, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Parent 23060, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Parent 23060, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 8796, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 8796, Chrome_ChildThread] WARNING: 1543400934204	Marionette	INFO	Stopped listening on port 63398
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+[GPU 624, Chrome_ChildThre
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
